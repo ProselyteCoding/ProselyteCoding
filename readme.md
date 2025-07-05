@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/email-3197908785@qq.com-blue" />
   </a>
   <a href="https://github.com/ProselyteCoding">
-    <img src="https://img.shields.io/badge/github-ProselyteCoding-blue" />
+    <img src="https://img.shields.io/badge/github-github.com/ProselyteCoding-blue" />
   </a>
 </p>
 
