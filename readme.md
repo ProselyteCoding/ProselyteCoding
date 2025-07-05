@@ -15,9 +15,17 @@
 ###
 	
 <h3 align="left">:telephone_receiver: Contact Me</h3>
-
-[![website](https://img.shields.io/badge/website-proselytecoding.github.io-blue)](https://proselytecoding.github.io/)
-[![email](https://img.shields.io/badge/email-3197908785@qq.com-blue)](https://3197908785@qq.com)
+<p align="left">
+  <a href="https://proselytecoding.github.io/">
+    <img src="https://img.shields.io/badge/website-proselytecoding.github.io-blue" />
+  </a>
+  <a href="mailto:3197908785@qq.com">
+    <img src="https://img.shields.io/badge/email-3197908785@qq.com-blue" />
+  </a>
+  <a href="https://github.com/ProselyteCoding">
+    <img src="https://img.shields.io/badge/github-ProselyteCoding-blue" />
+  </a>
+</p>
 
 ###
 
@@ -47,6 +55,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
 </div>
 
 ###
@@ -56,14 +70,24 @@
 ###
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProselyteCoding&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProselyteCoding&theme=react&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProselyteCoding&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProselyteCoding&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProselyteCoding&theme=react)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProselyteCoding&theme=react" width="420"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProselyteCoding&theme=react&utcOffset=8" width="420"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProselyteCoding&theme=react" width="420"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProselyteCoding&theme=react" width="420"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProselyteCoding&theme=react" width="840"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ProselyteCoding&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ProselyteCoding&theme=chalk" />
+  </a>
+</p>
 
 
 ###
 
-<h3>If you also have creative minds and enjoy realizing your own dreams and thoughts,</h3>
-<h3>join me! Let's make a difference! :love_you_gesture:	</h3>
+<h3 align="center">If you also have creative minds and enjoy realizing your own dreams and thoughts,</h3>
+<h3 align="center">join me! Let's make a difference! :love_you_gesture:	</h3>
+
+###
