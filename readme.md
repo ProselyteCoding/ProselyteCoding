@@ -4,13 +4,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🙋 About Me</h3>
 
 ###
 
-  - 🔭 I’m working as a frontend developer.<br>
+  - 🔭 I’m working as a frontend / full-stack / agent developer.<br>
   - 📚 I'm currently studying at Dalian University of Technology.<br>
-  - ⚡ In my free time I play the violin :violin: , play soccer :soccer: or play games :joystick: .</p>
+  - ⚡ In my spare time I play the violin :violin: , play soccer :soccer: or play games :joystick: .</p>
+
+###
+
+<h3 align="left">👨‍💻 Working Experience</h3>
+
+###
+
+  - 2026.1 ～ 2026.8 🎵 ByteDance TikTok Intern
 
 ###
 	
